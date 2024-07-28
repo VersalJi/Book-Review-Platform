@@ -1,0 +1,21 @@
+/* Client Register.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: none; /* Reset the body background */
+  }
+  
+  .login-container {
+    height: 100vh; /* Make the container take the full height of the viewport */
+    background-size: cover; /* Ensure the image covers the entire container */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* Additional styling for your component container */
+    /* background-image: url('/public/assets/img/'); Set the background image */
+    background-position: center; /* Set the background image position to center */
+   /* Add a smooth transition effect */
+  }
+  
+  
